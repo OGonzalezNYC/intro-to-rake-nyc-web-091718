@@ -1,5 +1,3 @@
-require 'pry'
-
 namespace :greeting do
 
   desc 'outputs hello to the terminal'
